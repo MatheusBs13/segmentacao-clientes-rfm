@@ -1,0 +1,5 @@
+segmento,clientes,pct_clientes,pct_receita,recencia_mediana,frequencia_mediana,valor_por_cliente,acao_recomendada,indicador
+Campeões,1115,19.05005979839399,72.13641967329848,15.0,13.0,11051.484376681614,"Programa de fidelidade/VIP, acesso antecipado a lançamentos e pedido de indicações.",Retenção e valor médio por cliente
+Em risco,1477,25.234922262087817,17.968082594400883,158.0,5.0,2078.079404197698,Campanha de reengajamento com lembrete e desconto por tempo limitado.,Taxa de reativação
+Leais em crescimento,1219,20.82692636254912,5.864970727166651,23.0,3.0,821.8698359310911,"Venda cruzada e incentivo à próxima compra, como frete grátis acima de um valor.",Frequência de compra
+Inativos,2042,34.888091576969074,4.030527005133988,400.0,1.0,337.1685014691479,Campanha de baixo custo; testar uma última oferta e depois reduzir o investimento.,Custo por reativação

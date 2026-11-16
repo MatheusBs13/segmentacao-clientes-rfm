@@ -1,0 +1,14 @@
+# Dados (baixe conforme data/README.md)
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
